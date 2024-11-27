@@ -16,8 +16,8 @@ public class MultipleData_MultiThreading {
         try {
             // Crear una lista de archivos de imagen
             List<File> archivosImagen = new ArrayList<>();
-            archivosImagen.add(new File("C:\\Users\\gamur\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE IV NIVEL SII2024\\COMPUTACIÓN PARALELA\\U1\\Lab1\\SISD_threads\\src\\main\\java\\com\\mycompany\\laboratorio1\\img1.jpg"));
-            archivosImagen.add(new File("C:\\Users\\gamur\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE IV NIVEL SII2024\\COMPUTACIÓN PARALELA\\U1\\Lab1\\SISD_threads\\src\\main\\java\\com\\mycompany\\laboratorio1\\img2.jpg"));
+            archivosImagen.add(new File("C:\\Users\\gamur\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE IV NIVEL SII2024\\COMPUTACIÓN PARALELA\\U1\\Lab1\\Imagenes\\img1.jpg"));
+            archivosImagen.add(new File("C:\\Users\\gamur\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE IV NIVEL SII2024\\COMPUTACIÓN PARALELA\\U1\\Lab1\\Imagenes\\img2.jpg"));
             // Agregar más imágenes según sea necesario
 
             // Lista para almacenar las imágenes procesadas
